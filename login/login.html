@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title>Rotten Database</title>
+        <link type="text/css" rel="stylesheet" href="log.css">
+    </head>
+    <body>
+        <div class="login-page">
+            <div class="form">
+              <form class="login-form" method="post" action="login.php">
+                <input type="text" placeholder="username" id="username" name="username" required/>
+                <input type="password" placeholder="password" id="password" name="password" required/>
+                <button name="submit">login</button>
+                <p class="message">New Account? <a href="#" onclick="signup()">Click Me!</a></p>
+              </form>
+            </div>
+          </div>
+    </body>
+    <script>
+        function signup(){
+          location.replace("http://localhost/signup/index.html");
+        }
+    </script>
+</html>

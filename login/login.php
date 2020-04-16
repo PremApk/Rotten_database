@@ -23,6 +23,6 @@ if(mysqli_num_rows($result)>0)
 }
 else{
    
-	header("location:https://rottendatabase.herokuapp.com//signup/index.html");
+	header("location:https://rottendatabase.herokuapp.com/signup/index.html");
 }
 ?>

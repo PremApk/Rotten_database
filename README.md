@@ -1,10 +1,13 @@
 # Rotten_database
 <ul>
   <li>
-  A Movie Rating Website for binge-watcher.
+  A Movie Rating Website for binge-watcher. 😎
   </li>
   <li>
-    Version 1.0 - Tamil Movies Rating Module Only   
+    Version 1.0 - Tamil Movies Rating Module Only 🛠  
+  </li>
+  <li>
+    Run this project with Apache Web Server. 🦊
   </li>
 </ul>
  

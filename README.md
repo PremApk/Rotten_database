@@ -1,5 +1,16 @@
 # Rotten_database
-A Movie Rating Website! For now, only Tamil Movies are rated. This was done by PSG Institute of Technology and Applied research students.
-Any modifications are appreciated.Please go through Instructions.txt file before executing project.
+<ul>
+  <li>
+  A Movie Rating Website for binge-watcher.
+  </li>
+  <li>
+    Version 1.0 - Tamil Movies Rating Module Only   
+  </li>
+</ul>
+ 
+## Screenshots
+<img src="https://raw.githubusercontent.com/PremApk/Rotten_database/master/Project%20Screenshots/Screenshot%201.png"/>
 
-Thank you :)
+<img src="https://raw.githubusercontent.com/PremApk/Rotten_database/master/Project%20Screenshots/Screenshot%204.png"/>
+
+## Thank you for your time and Contributions... 😎
